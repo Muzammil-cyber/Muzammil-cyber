@@ -15,6 +15,8 @@
 
 ## Latest Blogs posts (dev.to)
 <!-- BLOG-POST-LIST:START -->
+- [Node.js? More Like No-Go Slow! Bun.js and Elysia.js to the Rescue ✨](https://dev.to/muzammil-cyber/nodejs-more-like-no-go-slow-bunjs-and-elysiajs-to-the-rescue-53h9)
+- [Payload CMS: A Developer&#39;s Friend, with Room to Grow](https://dev.to/muzammil-cyber/payload-cms-a-developers-friend-with-room-to-grow-4611)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
