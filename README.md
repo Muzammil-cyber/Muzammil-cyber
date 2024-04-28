@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://muzammilloya-portfolio.vercel.app/about](https://muzammilloya-portfolio.vercel.app/about)
 
-### Blogs posts
+## Latest Blogs posts (dev.to)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -32,7 +32,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-cyber&" alt="muzammil-cyber" /></p>
 
-# Latest Blog Post (Dev.to)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
