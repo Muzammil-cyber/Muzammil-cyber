@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muzammil Loya</h1>
-<h3 align="center">I'm passionate about building modern web apps that helps others (including me) to improve their lives.</h3>
+<h3 align="center">I'm passionate about building modern apps that helps others (including me) to improve their lives.</h3>
 
 - 🌱 I’m currently learning **React Native**
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://muzammilloya-portfolio.vercel.app/](https://muzammilloya-portfolio.vercel.app/)
 
-- 💬 Ask me about **web development, web3**
+- 💬 Ask me about **web development, web3, mobile development**
 
 - 📫 How to reach me **muzammilloya0@gmail.com**
 
