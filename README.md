@@ -15,9 +15,9 @@
 
 ## Latest Blogs posts (dev.to)
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript vs. TypeScript: From Wild West to Five-Star Resort](https://dev.to/muzammil-cyber/javascript-vs-typescript-from-wild-west-to-five-star-resort-299i)
 - [Mind Your Tasks: A React Native To-Do App with Firebase](https://dev.to/muzammil-cyber/mind-your-tasks-a-react-native-to-do-app-with-firebase-4o84)
 - [Firebase vs Supabase: The Backend Battle for JavaScript Devs](https://dev.to/muzammil-cyber/firebase-vs-supabase-the-backend-battle-for-javascript-devs-4ncp)
-- [Level Up Your Projects: Uigraphic&#39;s Illustrations &amp; 3D Animations](https://dev.to/muzammil-cyber/level-up-your-projects-uigraphics-illustrations-3d-animations-4aa)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
