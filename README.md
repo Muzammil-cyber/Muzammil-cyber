@@ -15,9 +15,9 @@
 
 ## Latest Blogs posts (dev.to)
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Your Tailwind CSS Workflow with Prettier Plugin Enhancements](https://forem.com/muzammil-cyber/streamline-your-tailwind-css-workflow-with-prettier-plugin-enhancements-3f1l)
-- [JavaScript vs. TypeScript: From Wild West to Five-Star Resort](https://forem.com/muzammil-cyber/javascript-vs-typescript-from-wild-west-to-five-star-resort-299i)
-- [Mind Your Tasks: A React Native To-Do App with Firebase](https://forem.com/muzammil-cyber/mind-your-tasks-a-react-native-to-do-app-with-firebase-4o84)
+- [Streamline Your Tailwind CSS Workflow with Prettier Plugin Enhancements](https://dev.to/muzammil-cyber/streamline-your-tailwind-css-workflow-with-prettier-plugin-enhancements-3f1l)
+- [JavaScript vs. TypeScript: From Wild West to Five-Star Resort](https://dev.to/muzammil-cyber/javascript-vs-typescript-from-wild-west-to-five-star-resort-299i)
+- [Mind Your Tasks: A React Native To-Do App with Firebase](https://dev.to/muzammil-cyber/mind-your-tasks-a-react-native-to-do-app-with-firebase-4o84)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
