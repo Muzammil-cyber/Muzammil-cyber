@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **GO lang**
 
-- 👨‍💻 All of my projects are available at [https://muzammilloya-portfolio.vercel.app/projects](https://muzammilloya-portfolio.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [https://muzammilloya.dev/work](https://muzammilloya.dev/work)
 
-- 📝 I regularly write articles on [https://muzammilloya-portfolio.vercel.app/](https://muzammilloya-portfolio.vercel.app/)
+- 📝 I regularly write articles on [https://muzammilloya.dev/](https://muzammilloya.dev/)
 
 - 💬 Ask me about **web development, web3, mobile development**
 
 - 📫 How to reach me **muzammilloya0@gmail.com**
 
-- 📄 Know about my experiences [https://muzammilloya-portfolio.vercel.app/about](https://muzammilloya-portfolio.vercel.app/about)
+- 📄 Know about my experiences [https://muzammilloya.dev/about](https://muzammilloya.dev/about)
 
 ## Latest Blogs posts (dev.to)
 <!-- BLOG-POST-LIST:START -->
